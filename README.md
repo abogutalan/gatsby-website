@@ -97,3 +97,22 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+
+> npm i -g gatsby-cli
+> gatsby new .
+> gatsby develop
+
+
+* ES7 React/Redux/Graph... extesion
+rfc gives functional component
+rcc gives class based component
+
+**For .md files**
+> npm i gatsby-source-filesystem gatsby-transformer-remark gatsby-plugin-catch-links
+* adding some plugins (go to gatsby-config.js)
+
+React Router
+Gatsby
+mark down files
+GraphQL
